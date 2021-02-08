@@ -1,11 +1,11 @@
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/efranzin/SuperradianceKZ/blob/master/LICENSE)
-
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/efranzin/SuperradianceKZ/blob/main/LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2102.03152-b31b1b.svg)](https://arxiv.org/abs/2102.03152)
 
 # Amplification factors for bosonic test waves scattered off a Konoplya&ndash;Zhidenko black hole
 
 These data are freely available, but if you make use of them for your research please cite
 
-> [1] Edgardo Franzin, Stefano Liberati, and Mauro Oi, “Superradiance in deformed Kerr black holes” (2021).
+> [1] Edgardo Franzin, Stefano Liberati, and Mauro Oi, “Superradiance in deformed Kerr black holes” (2021). arXiv: [2102.03152](https://arxiv.org/abs/2102.03152).
 
 
 ## Definitions
