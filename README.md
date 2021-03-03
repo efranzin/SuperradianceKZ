@@ -29,7 +29,7 @@ For each (s, l, m) mode, each `Z_s*_l*_m*.dat` file contains
 
 We give values of a/M = {0.1, &hellip;, 0.9, 0.95, 0.96, 0.97, 0.98, 0.99, 0.998, 1., 1.01, &hellip;, 1.05, 1.1, 1.15};
 for each value of a/M we give values of &eta;/M<sup>3</sup> = {&eta;<sub>&minus;</sub>, &hellip;, 0, 0.01, 0.02, &hellip;, 0.1, 0.15, 0.2, 0.25, 0.3, 0.4, &hellip;, 1.}, where &eta;<sub>&minus;</sub> is defined in Eq. (8) of Ref. [1],
-and (tipically) values of 0 < &omega; < 2|m|&Omega;<sub>0</sub> for m &ne; 0, and 0 < &omega; M < 1 otherwise.
+and (typically) values of 0 < &omega; < 2|m|&Omega;<sub>0</sub> for m &ne; 0, and 0 < &omega; M < 1 otherwise.
 
 For the non-rotating case, i.e. a = 0, the spectra are degenerate in the azimuthal number m, and for each (s, l) mode, each `Z_a0_s*_l*.dat` file contains
 
@@ -47,7 +47,7 @@ The file `Z_s0_l1_m1_massive.dat` contains
 
 For now we only give values of a/M = {0.9, 0.95, 0.99} but updates are expected soon.
 For each value of a/M we give values of &eta;/M<sup>3</sup> = {&eta;<sub>&minus;</sub>, &hellip;, 0, 0.01, 0.02, &hellip;, 0.1, 0.15, 0.2, 0.25, 0.3, 0.4, &hellip;, 1.}, and M &mu;<sub>s</sub> = {0.025, 0.05, &hellip;} as long as &mu;<sub>s</sub> < &Omega;<sub>0</sub>
-and (tipically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &minus; &mu;<sub>s</sub>.
+and (typically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &minus; &mu;<sub>s</sub>.
 
 
 ## Notes
