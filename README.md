@@ -53,7 +53,8 @@ and (typically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &mi
 ## Data manipulation and plots
 
 The Jupyter notebook [`Plots.ipynb`](Plots.ipynb) provides several plots in addition to those shown in the paper.
-It contains plots for the superradiant modes only, for selected values of the black-hole parameters, but it can be easily modified to visualize other modes and/or  other parameter values.
+It contains plots for the superradiant modes only, for selected values of the black-hole parameters, but it can be easily modified to visualize other modes and/or  other parameter values.  
+_Note._ The notebook is rendered better on [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/efranzin/SuperradianceKZ/blob/main/Plots.ipynb).
 
 
 ## Notes
