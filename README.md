@@ -50,6 +50,12 @@ For each value of a/M we give values of &eta;/M<sup>3</sup> = {&eta;<sub>&minus;
 and (typically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &minus; &mu;<sub>s</sub>.
 
 
+## Data manipulation and plots
+
+The Jupyter notebook [`Plots.ipynb`](Plots.ipynb) provides several plots in addition to those shown in the paper.
+It contains plots for the superradiant modes only, for selected values of the black-hole parameters, but it can be easily modified to visualize other modes and/or  other parameter values.
+
+
 ## Notes
 
 These data include the amplification factor for bosonic waves scattered off a Kerr black hole, i.e. with &eta; = 0.
