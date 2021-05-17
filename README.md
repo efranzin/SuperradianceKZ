@@ -1,11 +1,12 @@
 [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/efranzin/SuperradianceKZ/blob/main/LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2102.03152-b31b1b.svg)](https://arxiv.org/abs/2102.03152)
+[![DOI:10.1103/PhysRevD.103.104034](https://zenodo.org/badge/DOI/10.1103/PhysRevD.103.104034.svg)](https://doi.org/10.1103/PhysRevD.103.104034)
 
 # Amplification factors for bosonic test waves scattered off a Konoplya&ndash;Zhidenko black hole
 
 These data are freely available, but if you make use of them for your research please cite
 
-> [1] Edgardo Franzin, Stefano Liberati, and Mauro Oi, “Superradiance in deformed Kerr black holes” (2021). arXiv: [2102.03152](https://arxiv.org/abs/2102.03152).
+> [1] Edgardo Franzin, Stefano Liberati, and Mauro Oi, “Superradiance in Kerr-like black holes”, [_Phys. Rev._ D **103** (2021), 104034](https://doi.org/10.1103/PhysRevD.103.104034). arXiv: [2102.03152](https://arxiv.org/abs/2102.03152).
 
 
 ## Definitions
@@ -45,9 +46,8 @@ The file `Z_s0_l1_m1_massive.dat` contains
 |:-:|:-:|:-:|:-:|:-:|
 | a/M | &eta;/M<sup>3</sup> | M &mu;<sub>s</sub> | &omega; M | Z<sub>011</sub> |
 
-For now we only give values of a/M = {0.9, 0.95, 0.99} but updates are expected soon.
-For each value of a/M we give values of &eta;/M<sup>3</sup> = {&eta;<sub>&minus;</sub>, &hellip;, 0, 0.01, 0.02, &hellip;, 0.1, 0.15, 0.2, 0.25, 0.3, 0.4, &hellip;, 1.}, and M &mu;<sub>s</sub> = {0.025, 0.05, &hellip;} as long as &mu;<sub>s</sub> < &Omega;<sub>0</sub>
-and (typically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &minus; &mu;<sub>s</sub>.
+We give values of a/M = {0., 0.2, &hellip;, 0.9, 0.95, 0.96, 0.97, 0.98, 0.99, 0.998, 1., 1.01, &hellip;, 1.05, 1.1, 1.15}.
+For each value of a/M we give values of &eta;/M<sup>3</sup> = {&eta;<sub>&minus;</sub>, &hellip;, 0, 0.01, 0.02, &hellip;, 0.1, 0.15, 0.2, 0.25, 0.3, 0.4, &hellip;, 1.}, and M &mu;<sub>s</sub> = {0.025, 0.05, &hellip;} as long as &mu;<sub>s</sub> < &Omega;<sub>0</sub> and (typically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &minus; &mu;<sub>s</sub>.
 
 
 ## Data manipulation and plots
@@ -55,7 +55,6 @@ and (typically) values of &mu;<sub>s</sub> < &omega; < 2 &Omega;<sub>0</sub> &mi
 The Jupyter notebook [`Plots.ipynb`](Plots.ipynb) provides several plots in addition to those shown in the paper.
 It contains plots for the superradiant modes only, for selected values of the black-hole parameters, but it can be easily modified to visualize other modes and/or  other parameter values.  
 _Note._ The notebook is rendered better on [nbviewer.jupyter.org](https://nbviewer.jupyter.org/github/efranzin/SuperradianceKZ/blob/main/Plots.ipynb).
-
 
 ## Notes
 
